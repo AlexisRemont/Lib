@@ -1,7 +1,7 @@
 
 #DEF SAY_HELLO
 
-def say__hello
+def say__hell
     puts "hello" 
 end
 
